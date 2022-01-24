@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-google-play-information",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phonbopit/nodejs-google-play-information.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phonbopit/nodejs-google-play-information/issues"
+  },
+  "homepage": "https://github.com/Phonbopit/nodejs-google-play-information#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "hapi": "^18.1.0",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.1.1",
+    "request": "^2.88.2"
+  }
+}
